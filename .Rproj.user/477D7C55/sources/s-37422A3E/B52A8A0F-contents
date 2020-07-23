@@ -1,0 +1,26 @@
+baseurl = "https://test-muzeeb.github.io/"
+languageCode = "en-us"
+title = "Muzeeb Shaik"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    footer = "&copy; [Muzeeb Shaik](https://yihui.name) 2020"
