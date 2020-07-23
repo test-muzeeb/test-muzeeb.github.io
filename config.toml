@@ -1,4 +1,4 @@
-baseurl = "https://test-muzeeb.github.io"
+baseurl = "https://test-muzeeb.github.io/"
 languageCode = "en-us"
 title = "Harish Guda"
 theme = "hugo-xmin"
