@@ -1,94 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on A minimal Hugo website</title>
+    <title>Tags on Harish Guda</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on A minimal Hugo website</description>
+    <description>Recent content in Tags on Harish Guda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tutorial</title>
-      <link>/tags/tutorial/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Github</title>
+      <link>/tags/github/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tutorial/</guid>
+      <guid>/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>blogdown</title>
-      <link>/tags/blogdown/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>Teaching</title>
+      <link>/tags/teaching/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blogdown/</guid>
+      <guid>/tags/teaching/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Markdown</title>
-      <link>/tags/markdown/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>Creating Websites</title>
+      <link>/tags/creating-websites/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/markdown/</guid>
+      <guid>/tags/creating-websites/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MathJax</title>
-      <link>/tags/mathjax/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mathjax/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pandoc</title>
-      <link>/tags/pandoc/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>Hello World</title>
+      <link>/tags/hello-world/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/pandoc/</guid>
+      <guid>/tags/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>RStudio</title>
-      <link>/tags/rstudio/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>Om Vighnaraja</title>
+      <link>/tags/om-vighnaraja/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rstudio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
+      <guid>/tags/om-vighnaraja/</guid>
       <description></description>
     </item>
     

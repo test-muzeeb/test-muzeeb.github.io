@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Harish Guda</title>
+    <link>/post/post/</link>
+    <description>Recent content in Posts on Harish Guda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some Information on Creating Websites with R</title>
+      <link>/post/2019/04/18/website-info/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/04/18/website-info/</guid>
+      <description>I have always wanted to build attractive websites and still have a lot of control on the various facets of the website. I had previously owned a Google Site, which I never liked. I am not a professional with regards to web-development. Besides, my needs were minimal. With little knowledge on this topic, I did what everyone else does – dive straight into it.
+I am quite comfortable with R, and when Yihui Xie and co-authors came out with the book on blogdown, I decided to try it.</description>
+    </item>
+    
+    <item>
+      <title>Om Vighnaraja</title>
+      <link>/post/2019/04/01/om-vighnaraja-first-post/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/04/01/om-vighnaraja-first-post/</guid>
+      <description>Hello all!
+This is my first post on my new website/blog, thus the title Om Vighnaraja (instead of a Hello World). My hope is to keep y’all updated with content regularly.
+Thank you.</description>
+    </item>
+    
+  </channel>
+</rss>

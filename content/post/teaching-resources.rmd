@@ -1,0 +1,43 @@
+---
+title: "Useful Templates for First-Time Instructors"
+author: "Harish Guda"
+date: "2019-12-18"
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 1
+slug: "teaching-resources"
+categories: 
+  - "General"
+tags: 
+  - "Teaching"
+  - "Github"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I am writing this post as I complete my first quarter of teaching as an Assistant Professor. I taught the core Operations and Supply Chain Management to FT MBAs.[^1] 
+
+As I went through this process for the first time, I realized that I needed templates for various files (e.g., syllabus, exams, homework assignments, case writeups, instruction slides, etc.). While there was an abundance of such resources online, it is hard for a single user to try out everything to weed out the bad ones from the good ones. I realized that many new instructors might have similar needs in the various courses they teach. The point of this post is to share what I gathered. I indulged in this costly search, so you don't have to :). 
+
+Here are some of these templates (see Github [repo](https://github.com/harish-guda/teaching-resources)). 
+
+* Exam/Homework Template (LaTeX): While there are many LaTeX templates for exams, I liked this particular template (borrowed and modified from Philip Hirschhorn; Thank you, Philip!). Two key features are the points per question calculated on the front page, and the bonus questions. [Sample](https://github.com/harish-guda/teaching-resources/blob/master/exam-template.pdf)
+
+* Instruction Slides Template (PowerPoint): If you are not teaching a technical (i.e., notation-intensive) course, and therefore unlikely to use Beamer, I highly recommend PowerPoint. In my template, I try to minimize white space on all edges (top, bottom, left and right) -- this is akin to the idea of removing bezels in most modern smartphone screen design. [Sample](https://github.com/harish-guda/teaching-resources/blob/master/powerpoint-template.pptx?raw=true)
+
+  * Pro-tip (while teaching): I upload two versions of slides for every lecture to the students' LMS portal (e.g., Canvas, Blackboard) while teaching: 
+    * A "before-class" version, and 
+    * An "after-class" version. 
+  * I intentionally leave whitespaces/blanks to key questions/issues/aspects in the before-class version of the slides. This allows for an engaging discussion with students in the classroom. I then fill these blanks up during instruction[^2] based on their answers and upload the after-class version. 
+  
+* Syllabus Template (LaTeX): Each department/institution has a uniqueset of requirements for a syllabus. I provide a general-purpose template for a syllabus. Please add/remove any required content to the template. [Sample](https://github.com/harish-guda/teaching-resources/blob/master/syllabus-template.pdf)
+  * Pro-tip: I list the schedule-topic correspondence in my syllabus *not* by date but by a session index (e.g., session 1, 2, etc.). 
+  * This allows me to make minimal adjustments over future terms if the core content remains the same. For instance, I plan to adjust the case studies in my course over the next few years but the key topics remain the same. 
+
+[^1]: My students were amazing and I wish every instructor gets to teach the type of students I taught last quarter. 
+
+[^2]: I fill the blanks by writing on my slides. I use a Microsoft Surface Book, which, like most touchscreen laptops allows users to write on slides using a stylus. If you are a new instructor and planning on purchasing a laptop for long-term use, I highly recommend a Surface Book. There's an accompanying warranty of two years (at a small premium) which is also something I recommend. 

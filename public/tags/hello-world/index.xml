@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello World on Harish Guda</title>
+    <link>/tags/hello-world/</link>
+    <description>Recent content in Hello World on Harish Guda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Om Vighnaraja</title>
+      <link>/post/2019/04/01/om-vighnaraja-first-post/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/04/01/om-vighnaraja-first-post/</guid>
+      <description>Hello all!
+This is my first post on my new website/blog, thus the title Om Vighnaraja (instead of a Hello World). My hope is to keep y’all updated with content regularly.
+One of my favorite things about RMD files is that it compiles math so beautifully. For example,
+Fix \(d, w \in [0, 1]\). The indifferent agent \(\hat{\theta} \in [0, 1]\) can be obtained by the following equation:\[w\Bigg(\frac{d}{F(\hat{\theta})}\Bigg) - \hat{\theta} = 0.</description>
+    </item>
+    
+  </channel>
+</rss>
