@@ -1,7 +1,7 @@
 ---
 title: Posts
 ---
-[<img src="/index-files/muzeeb.jpg"  />](https://muzeeb-shaik.github.io/)
+[<img src="/index-files/muzeeb.jpg" style="max-width:30%;min-width:60px;float:right;" />](https://muzeeb-shaik.github.io/)
 
 
 I am a second year PhD student in the Marketing Department at the [Mays Business School](https://mays.tamu.edu/) at Texas A&M University. 
