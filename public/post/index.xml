@@ -1,48 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Harish Guda</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Harish Guda</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Useful Templates for First-Time Instructors</title>
-      <link>/post/2019/12/18/teaching-resources/</link>
-      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019/12/18/teaching-resources/</guid>
-      <description>I am writing this post as I complete my first quarter of teaching as an Assistant Professor. I taught the core Operations and Supply Chain Management to FT MBAs.1
-As I went through this process for the first time, I realized that I needed templates for various files (e.g., syllabus, exams, homework assignments, case writeups, instruction slides, etc.). While there was an abundance of such resources online, it is hard for a single user to try out everything to weed out the bad ones from the good ones.</description>
-    </item>
-    
-    <item>
-      <title>Some Information on Creating Websites with R</title>
-      <link>/post/2019/04/18/website-info/</link>
-      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019/04/18/website-info/</guid>
-      <description>Update: Much of this information is available in detail at multiple places, including:
-The Little Dataset,Official Blogdown E-Book,Alison Hill (who is a co-author on the textbook),among others.
-I had previously owned a Google Site, which I never liked. I am quite comfortable with R, and when Yihui Xie and co-authors came out with the book on blogdown, I decided to try it. However, it can be still quite difficult with no experience to HTML, or prior exposure to CSS.</description>
-    </item>
-    
-    <item>
-      <title>Om Vighnaraja</title>
-      <link>/post/2019/04/01/om-vighnaraja-first-post/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019/04/01/om-vighnaraja-first-post/</guid>
-      <description>Hello all!
-This is my first post on my new website/blog, thus the title Om Vighnaraja (instead of a Hello World). My hope is to keep y’all updated with content regularly.
-One of my favorite things about RMD files is that it compiles math so beautifully. For example,
-Fix \(d, w \in [0, 1]\). The indifferent agent \(\hat{\theta} \in [0, 1]\) can be obtained by the following equation:\[w\Bigg(\frac{d}{F(\hat{\theta})}\Bigg) - \hat{\theta} = 0.</description>
-    </item>
-    
-  </channel>
-</rss>
