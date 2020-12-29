@@ -3,11 +3,9 @@ title:  "About"
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am an Assistant Professor at the Business School of Instituto Tecnológico Autónomo de México (ITAM).
+I am a third year PhD student in the Marketing Department at the [Mays Business School](https://mays.tamu.edu/){target="_blank"} at Texas A&M University. 
 
-I am primarily a macroeconomist who works in international macroeconomics, monetary economics and emerging market business cycles.
 
-Before joining ITAM, I finished my PhD in economics from Columbia University.
+My current research focuses on Interfirm Relationships (B2B) and Sales Force Effectiveness. I am co-advised by [Hari Sridhar](https://mays.tamu.edu/directory/shriharisridhar/){target="_blank"} (Texas A&M University) and [Vikas Mittal](https://business.rice.edu/person/vikas-mittal){target="_blank"} (Rice University). 
 
-Apart from doing research, I like running marathons and travel photography.
 
